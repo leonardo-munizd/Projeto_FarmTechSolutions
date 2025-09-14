@@ -51,10 +51,12 @@ O objetivo é apoiar produtores rurais com cálculos de áreas de plantio, manej
    git clone https://github.com/seu-usuario/farmtech.git
    cd farmtech
 
-#Execute o aplicativo:
+## Execute o aplicativo:
+
 python app.py
 
-#Abra o RStudio e rode:
+## Abra o RStudio e rode:
+
 source("analise.R")
 
 
